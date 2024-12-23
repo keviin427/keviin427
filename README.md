@@ -1,4 +1,4 @@
-# Kevin Ormaza 🚀
+# Hola mi nombre es, Kevin Ormaza 🚀
 
 **Ingeniero en Sistemas de Información** | **QA Automation Engineer** | **Fullstack Developer**
 
@@ -12,6 +12,25 @@ Soy un profesional proactivo, responsable y con gran liderazgo. Mi enfoque está
 ### 📚 Educación
 - **Ingeniero en Sistemas de Información** - Pontificia Universidad Católica del Ecuador (PUCE)
 - **Bachiller en Ciencias** - Colegio Técnico Aeronáutico (COTAC)
+
+---
+
+### 🚀 Proyectos Destacados
+
+#### 1. **Sistema de Gestión Clínica Odontológica**
+![Gestión Clínica](https://via.placeholder.com/800x400)  
+Sistema para clínicas odontológicas que incluye módulos de pacientes, historias clínicas y facturación.  
+**Tecnologías:** Laravel, MySQL, AdminLTE  
+[Ver proyecto en GitHub](https://github.com/keviin427/gestion-contratos)
+
+---
+
+#### 2. **Pruebas Automatizadas para E-commerce**
+![Pruebas E-commerce](https://via.placeholder.com/800x400)  
+Pruebas E2E automatizadas para el flujo de compra en Demoblaze.  
+**Tecnologías:** Serenity BDD, Selenium, Java  
+[Ver proyecto en GitHub](https://github.com/keviin427/fundacion)
+
 
 ---
 
