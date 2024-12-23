@@ -18,7 +18,7 @@ Soy un profesional proactivo, responsable y con gran liderazgo. Mi enfoque está
 ### 🚀 Proyectos Destacados
 
 #### 1. **Sistema de Gestión de Contrataciones para Futbolistas**
-![Gestión Contratos](https://via.placeholder.com/400x200)  
+![Gestión Contratos](https://imgur.com/a/vuTw9kO)  
 Sistema para clubes deportivos que incluye módulos de contratos, jugadores y clubes.  
 **Tecnologías:** Laravel, MySQL, AdminLTE  
 [Ver proyecto en GitHub](https://github.com/keviin427/gestion-contratos)
@@ -38,7 +38,6 @@ Pruebas E2E automatizadas para el flujo de compra en Demoblaze.
 ![Gestión Fundacion](https://via.placeholder.com/400x200)  
 Sistema para fundación que incluye módulos de facturación, académico y documentación.
 **Tecnologías:** Laravel, MySQL, AdminLTE  
-[Ver proyecto en GitHub](https://github.com/keviin427/fundacion-semillero)
 
 ---
 ### 💻 Habilidades Técnicas
