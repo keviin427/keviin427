@@ -18,7 +18,8 @@ Soy un profesional proactivo, responsable y con gran liderazgo. Mi enfoque está
 ### 🚀 Proyectos Destacados
 
 #### 1. **Sistema de Gestión de Contrataciones para Futbolistas**
-![Gestión Contratos](https://imgur.com/a/vuTw9kO)  
+![Gestión Contratos](https://github.com/keviin427/gestion-contratos/blob/main/imgcontratos.jpg)  
+![Gestión Contratos](https://github.com/keviin427/gestion-contratos/blob/main/imgcontratos2.jpg)  
 Sistema para clubes deportivos que incluye módulos de contratos, jugadores y clubes.  
 **Tecnologías:** Laravel, MySQL, AdminLTE  
 [Ver proyecto en GitHub](https://github.com/keviin427/gestion-contratos)
