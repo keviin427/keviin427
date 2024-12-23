@@ -27,7 +27,7 @@ Sistema para clubes deportivos que incluye módulos de contratos, jugadores y cl
 ---
 
 #### 2. **Pruebas Automatizadas para E-commerce**
-![Pruebas E-commerce](https://via.placeholder.com/800x400)  
+![Pruebas E-commerce](https://github.com/keviin427/DemoBlazeFlujo/blob/master/image.png)  
 Pruebas E2E automatizadas para el flujo de compra en Demoblaze.  
 **Tecnologías:** Serenity BDD, Selenium, Java  
 [Ver proyecto en GitHub](https://github.com/keviin427/DemoBlazeFlujo)
@@ -36,7 +36,8 @@ Pruebas E2E automatizadas para el flujo de compra en Demoblaze.
 ---
 
 #### 3. **Sistema de Gestión de Fundación Semillero de Esperanza**
-![Gestión Fundacion](https://via.placeholder.com/400x200)  
+![Gestión Fundacion](https://github.com/keviin427/fundacion-semillero/blob/main/Captura%20de%20pantalla%202024-11-17%20202535.png)  
+![Gestión Fundacion](hhttps://github.com/keviin427/fundacion-semillero/blob/main/Captura%20de%20pantalla%202024-11-17%20202600.png)
 Sistema para fundación que incluye módulos de facturación, académico y documentación.
 **Tecnologías:** Laravel, MySQL, AdminLTE  
 
