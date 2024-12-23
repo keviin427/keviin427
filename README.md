@@ -37,7 +37,7 @@ Pruebas E2E automatizadas para el flujo de compra en Demoblaze.
 
 #### 3. **Sistema de Gestión de Fundación Semillero de Esperanza**
 ![Gestión Fundacion](https://github.com/keviin427/fundacion-semillero/blob/main/Captura%20de%20pantalla%202024-11-17%20202535.png)  
-![Gestión Fundacion](hhttps://github.com/keviin427/fundacion-semillero/blob/main/Captura%20de%20pantalla%202024-11-17%20202600.png)
+![Gestión Fundacion1](hhttps://github.com/keviin427/fundacion-semillero/blob/main/Captura%20de%20pantalla%202024-11-17%20202600.png)
 Sistema para fundación que incluye módulos de facturación, académico y documentación.
 **Tecnologías:** Laravel, MySQL, AdminLTE  
 
